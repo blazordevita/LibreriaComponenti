@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SYDXw1lk7aHHNVVt7ISLgQGFW+fMFLoZG1QuTBYiJHlS/ucs2m3/p32oAnQqdpeX9HBPRPj1+cmayCWQDXz/OQ==",
+  "dgSpecHash": "PlQvOVCIOq/IsiYh1VWJ9YX9lo9EhV0Hrgxjtdq7xELF4aIcIFabmQD0VzPCQI86oGycSNpPDcj2g7idFsAxnQ==",
   "success": true,
   "projectFilePath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/LibreriaComponenti.Host.BlazorWASM.csproj",
   "expectedPackageFiles": [

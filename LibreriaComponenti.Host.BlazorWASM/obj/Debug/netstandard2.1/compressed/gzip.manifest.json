@@ -1,49 +1,14 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/T-D6TtGKAktYH76NKHtyDaQjO-OUCV-1ut-pCXfBjBs=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/o7k68xHHlFbG4g0ndZrqk2m0eQoIh9U_NOvH8vv79U4=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.Host.BlazorWASM.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.Host.BlazorWASM.dll.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/_IansbyiPIbBxBPwqKb6GLCNiqhuqeIc5S8yC5s7yF4=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.Json.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.Json.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Buffers.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Buffers.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/uaG3AW80GeXVlZrMLb3Q0VZ6jBkzXqzaUAgKgtZbStA=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/mscorlib.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/mscorlib.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Threading.Tasks.Extensions.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Threading.Tasks.Extensions.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Memory.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Memory.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Json.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Json.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZU-LxbBfk6ofRNm5ssrK-q6PzRLORfKvNAiEFjX0mYM=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.CompilerServices.Unsafe.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Bcl.AsyncInterfaces.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ycn-UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash",
@@ -69,6 +34,16 @@
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/WebAssembly.Net.WebSockets.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/WebAssembly.Net.WebSockets.dll.gz"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Memory.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Memory.dll.gz"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/uaG3AW80GeXVlZrMLb3Q0VZ6jBkzXqzaUAgKgtZbStA=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/mscorlib.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/mscorlib.dll.gz"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash",
@@ -146,6 +121,41 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Data.dll.gz"
     },
     {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/PtdwG1mN01_-E4k5T0YeDMB7EWFHOl0Al9JCjLRBwmg=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.dll.gz"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/_IansbyiPIbBxBPwqKb6GLCNiqhuqeIc5S8yC5s7yF4=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.Json.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Buffers.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Buffers.dll.gz"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Threading.Tasks.Extensions.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Threading.Tasks.Extensions.dll.gz"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Json.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Json.dll.gz"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ZU-LxbBfk6ofRNm5ssrK-q6PzRLORfKvNAiEFjX0mYM=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
+    },
+    {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/GpbKjKcZS2DFFmkFiWZ0C5pPRActMWogSgSZcQHg1SA=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Numerics.Vectors.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Numerics.Vectors.dll.gz"
@@ -154,16 +164,6 @@
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Encodings.Web.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/ycn-UHLnjC77BNvsurP4mkuYP8oud1oVyfSSlZKMymc=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
-    },
-    {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/heM1elaMyM-VGsnlEl1tYfz1PjO9-CUvM4MLhjraNUU=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.dll.gz"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/v4LhihP26fP-dVajppSCZIrCVbkiALCJgAisyG2cmJQ=.hash",
@@ -266,12 +266,12 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/NMSwJRsMzU3-kiO-IK9LNjANkaddILHsEr9_k4siNkM=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/NZmWe7Hu7gMwYcb6l8pNVeDxQtWC3h-Ayd1kOd10RKw=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.Host.BlazorWASM.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.Host.BlazorWASM.pdb.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/5bNW-vmazvZV0HyHdUhobOXKoV-LBDemeW_0xjcZkOA=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/qeUd_yrmLnXewODWg1kjnSSnsT1Hxjx6K7dQCmwxdP8=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.pdb.gz"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/gJw0nI-5uMw3gqj8-xwmRPTOSg8a0QwKxBv0_qg2Hlg=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VxPDdKMQHCGjzJ7kl16NNSlWIFBh36uyRxUZKos8Ea0=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.gz"
     }

@@ -10,4 +10,4 @@ Branch del progetto:
 
 Articolo di riferimento: 
 
-* [Creare Librerie di componenti Blazor](https://blazordev.it/blazor/advanced/2020/05/02/creare-una-libreria-di-componenti.html)
+* [Creare Librerie di componenti Blazor](https://blazordev.it/blazor/advanced/2020/05/03/creare-una-libreria-di-componenti.html)

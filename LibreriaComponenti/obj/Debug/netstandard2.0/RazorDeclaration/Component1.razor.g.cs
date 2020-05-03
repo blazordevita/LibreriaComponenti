@@ -19,7 +19,27 @@ using Microsoft.AspNetCore.Components.Web;
 #line default
 #line hidden
 #line 2 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
+using Microsoft.AspNetCore.Components.Routing;
+
+#line default
+#line hidden
+#line 3 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
 using Microsoft.JSInterop;
+
+#line default
+#line hidden
+#line 4 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
+using System.Net.Http;
+
+#line default
+#line hidden
+#line 5 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
+using System.Net.Http.Json;
+
+#line default
+#line hidden
+#line 6 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
+using LibreriaComponenti.Shared;
 
 #line default
 #line hidden

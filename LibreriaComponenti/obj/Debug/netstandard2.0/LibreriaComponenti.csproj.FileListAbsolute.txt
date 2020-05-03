@@ -19,3 +19,17 @@
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/staticwebassets/LibreriaComponenti.StaticWebAssets.xml
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/LibreriaComponenti.dll
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/LibreriaComponenti.pdb
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/App.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/App.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Pages/Counter.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Pages/FetchData.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Pages/Index.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Shared/SurveyPrompt.razor.g.cs

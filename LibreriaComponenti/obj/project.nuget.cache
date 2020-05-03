@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L9u2+hTbHM7R5u6+fIdeRB5whscPHIdJBd1fWS8CI+Q0vLyzFEkaPvzGXzJmHg4k0HWa08TFhhGRCyM52sP7yQ==",
+  "dgSpecHash": "i0cSEEHo5SDLUTTPPZeEDAPCvlV8CirLmW5tOHzvXntrljig31YvW4/X6J7xhHVgtJwQnyylC4MlRvSa9c9lMA==",
   "success": true,
   "projectFilePath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/LibreriaComponenti.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
     "/Users/micheleaponte/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/micheleaponte/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/micheleaponte/.nuget/packages/system.net.http.json/3.2.0-rc1.20217.1/system.net.http.json.3.2.0-rc1.20217.1.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/micheleaponte/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.0/system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
     "/Users/micheleaponte/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512",

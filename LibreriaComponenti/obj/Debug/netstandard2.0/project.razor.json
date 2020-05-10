@@ -9,57 +9,6 @@
     "TagHelpers": [
       {
         "Kind": "Components.Component",
-        "Name": "LibreriaComponenti.Component1",
-        "AssemblyName": "LibreriaComponenti",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Component1",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LibreriaComponenti.Component1"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-        "Name": "LibreriaComponenti.Component1",
-        "AssemblyName": "LibreriaComponenti",
-        "Documentation": null,
-        "TagOutputHint": null,
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LibreriaComponenti.Component1",
-            "ParentTag": null,
-            "TagStructure": 0,
-            "Attributes": [],
-            "Diagnostics": []
-          }
-        ],
-        "BoundAttributes": [],
-        "AllowedChildTags": [],
-        "Diagnostics": [],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LibreriaComponenti.Component1",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "Kind": "Components.Component",
-<<<<<<< HEAD
-=======
         "Name": "LibreriaComponenti.App",
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
@@ -104,6 +53,55 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "LibreriaComponenti.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Component1",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Component1",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Component1"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Component1",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Component1",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Component1",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -516,7 +514,6 @@
       },
       {
         "Kind": "Components.Component",
->>>>>>> wasm-server
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
         "Documentation": "\n            <summary>\n            A component that provides a cascading value to all descendant components.\n            </summary>\n        ",

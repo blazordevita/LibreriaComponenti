@@ -436,8 +436,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components": "3.1.2",
-          "Microsoft.AspNetCore.Components.Web": "3.1.2",
-          "System.Net.Http.Json": "3.2.0-rc1.20217.1"
+          "Microsoft.AspNetCore.Components.Web": "3.1.2"
         },
         "compile": {
           "bin/placeholder/LibreriaComponenti.dll": {}

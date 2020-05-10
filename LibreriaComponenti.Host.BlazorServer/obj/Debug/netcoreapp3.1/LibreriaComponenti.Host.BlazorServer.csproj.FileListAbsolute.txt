@@ -25,8 +25,6 @@
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/bin/Debug/netcoreapp3.1/Microsoft.JSInterop.dll
-/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
-/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/bin/Debug/netcoreapp3.1/System.Text.Json.dll
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/bin/Debug/netcoreapp3.1/LibreriaComponenti.dll
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/bin/Debug/netcoreapp3.1/LibreriaComponenti.pdb
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/obj/Debug/netcoreapp3.1/RazorDeclaration/LibreriaComponenti.Host.BlazorServer.dll

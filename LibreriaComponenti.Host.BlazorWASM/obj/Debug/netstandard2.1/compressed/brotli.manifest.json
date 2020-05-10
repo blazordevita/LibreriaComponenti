@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/o7k68xHHlFbG4g0ndZrqk2m0eQoIh9U_NOvH8vv79U4=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/JS28MfLR7mHUzI0PM9-LkO-c3ldlbB2Qeu0JJyysbJ4=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.Host.BlazorWASM.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.Host.BlazorWASM.dll.br"
     },
@@ -121,11 +121,6 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Data.dll.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/PtdwG1mN01_-E4k5T0YeDMB7EWFHOl0Al9JCjLRBwmg=.hash",
-      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.dll",
-      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.dll.br"
-    },
-    {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/_IansbyiPIbBxBPwqKb6GLCNiqhuqeIc5S8yC5s7yF4=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Net.Http.Json.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Net.Http.Json.dll.br"
@@ -164,6 +159,11 @@
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/System.Text.Encodings.Web.dll",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/hY9bet7gkEVtk2kWACG-020aLwcLVAE4Ld0BL0bPpLY=.hash",
+      "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.dll",
+      "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.dll.br"
     },
     {
       "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/v4LhihP26fP-dVajppSCZIrCVbkiALCJgAisyG2cmJQ=.hash",
@@ -266,12 +266,12 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/NZmWe7Hu7gMwYcb6l8pNVeDxQtWC3h-Ayd1kOd10RKw=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/cPMRfbxLGik4LvdKV_zCa-vsze3yM2AOwt9-kvpIoaY=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.Host.BlazorWASM.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.Host.BlazorWASM.pdb.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/qeUd_yrmLnXewODWg1kjnSSnsT1Hxjx6K7dQCmwxdP8=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/CoIdzixCGBcXKXBe3O6oRsGHmKhNRaDRnQrWp4Nja6E=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/unlinked\/LibreriaComponenti.pdb",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/_bin\/LibreriaComponenti.pdb.br"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/VxPDdKMQHCGjzJ7kl16NNSlWIFBh36uyRxUZKos8Ea0=.hash",
+      "InputSource": "obj\/Debug\/netstandard2.1\/integrity\/mrg1GGpyvyX1vvUC0aocBvDFMq_UB0iI-cU0nJ_Anaw=.hash",
       "Source": "\/Users\/micheleaponte\/blazordevita\/articoli\/LibreriaComponenti\/LibreriaComponenti.Host.BlazorWASM\/obj\/Debug\/netstandard2.1\/blazor\/blazor.boot.json",
       "Target": "obj\/Debug\/netstandard2.1\/compressed\/_framework\/blazor.boot.json.br"
     }

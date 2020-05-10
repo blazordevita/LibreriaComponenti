@@ -212,21 +212,6 @@
           "lib/netstandard2.0/System.Memory.dll": {}
         }
       },
-      "System.Net.Http.Json/3.2.0-rc1.20217.1": {
-        "type": "package",
-        "dependencies": {
-          "System.Buffers": "4.5.0",
-          "System.Memory": "4.5.3",
-          "System.Text.Json": "4.7.1",
-          "System.Threading.Tasks.Extensions": "4.5.2"
-        },
-        "compile": {
-          "lib/netstandard2.0/System.Net.Http.Json.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/System.Net.Http.Json.dll": {}
-        }
-      },
       "System.Numerics.Vectors/4.5.0": {
         "type": "package",
         "compile": {
@@ -790,26 +775,6 @@
         "version.txt"
       ]
     },
-    "System.Net.Http.Json/3.2.0-rc1.20217.1": {
-      "sha512": "OzMbyFclZH6efCQkHfYj+9xnTtD/s5t4NVURRi5EiHKB1BQwE64qYNrnB6nV7Y93UiRp6ai+KjpZHX/Xzz58nw==",
-      "type": "package",
-      "path": "system.net.http.json/3.2.0-rc1.20217.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net461/System.Net.Http.Json.dll",
-        "lib/net461/System.Net.Http.Json.xml",
-        "lib/netstandard2.0/System.Net.Http.Json.dll",
-        "lib/netstandard2.0/System.Net.Http.Json.xml",
-        "system.net.http.json.3.2.0-rc1.20217.1.nupkg.sha512",
-        "system.net.http.json.nuspec",
-        "useSharedDesignerContext.txt",
-        "version.txt"
-      ]
-    },
     "System.Numerics.Vectors/4.5.0": {
       "sha512": "MNcaYxUJvUcoXOa+jgKl/GDw/Mh+wMrxDjW4dre7qrp35LUGTjUBNtZsNjxsWX592ocdyqt1X5hMJB+5OStoYw==",
       "type": "package",
@@ -965,8 +930,7 @@
     ".NETStandard,Version=v2.0": [
       "Microsoft.AspNetCore.Components >= 3.1.2",
       "Microsoft.AspNetCore.Components.Web >= 3.1.2",
-      "NETStandard.Library >= 2.0.3",
-      "System.Net.Http.Json >= 3.2.0-rc1.20217.1"
+      "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
@@ -1021,10 +985,6 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
-          },
-          "System.Net.Http.Json": {
-            "target": "Package",
-            "version": "[3.2.0-rc1.20217.1, )"
           }
         },
         "imports": [

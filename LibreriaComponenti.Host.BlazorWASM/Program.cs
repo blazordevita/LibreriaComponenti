@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using LibreriaComponenti.Services;
+using LibreriaComponenti.Host.BlazorWASM.Services;
 
 namespace LibreriaComponenti.Host.BlazorWASM
 {
@@ -18,6 +20,8 @@ namespace LibreriaComponenti.Host.BlazorWASM
             builder.RootComponents.Add<App>("app");
 
             builder.Services.AddTransient(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
+
+            builder.Services.AddTransient<IWeatherForecastService, WeatherForecastService>();
 
             await builder.Build().RunAsync();
         }

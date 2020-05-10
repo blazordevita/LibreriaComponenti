@@ -22,7 +22,6 @@ obj/Debug/netstandard2.1/blazor/unlinked/System.IO.Compression.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.Drawing.Common.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.Data.DataSetExtensions.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.Data.dll
-obj/Debug/netstandard2.1/blazor/unlinked/LibreriaComponenti.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.Net.Http.Json.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.Buffers.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.Threading.Tasks.Extensions.dll
@@ -31,6 +30,7 @@ obj/Debug/netstandard2.1/blazor/unlinked/System.Runtime.CompilerServices.Unsafe.
 obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Bcl.AsyncInterfaces.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.Numerics.Vectors.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.Text.Encodings.Web.dll
+obj/Debug/netstandard2.1/blazor/unlinked/LibreriaComponenti.dll
 obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.AspNetCore.Components.Web.dll
 obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.AspNetCore.Components.Forms.dll
 obj/Debug/netstandard2.1/blazor/unlinked/System.ComponentModel.Annotations.dll

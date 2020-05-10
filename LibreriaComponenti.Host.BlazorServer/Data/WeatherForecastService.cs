@@ -1,10 +1,12 @@
 using System;
 using System.Linq;
 using System.Threading.Tasks;
+using LibreriaComponenti.Models;
+using LibreriaComponenti.Services;
 
 namespace LibreriaComponenti.Host.BlazorServer.Data
 {
-    public class WeatherForecastService
+    public class WeatherForecastService : IWeatherForecastService
     {
         private static readonly string[] Summaries = new[]
         {

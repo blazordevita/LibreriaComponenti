@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u5LUU7J1Ni8dm6OzRFCPMk1ladBJF4pfYvuiO1yukuBvxRN9LnRLujs8eBfi0FdBeP+Cv5h+GHJd90stHMDGSg==",
+  "dgSpecHash": "Rl95UotBpNO0Kg8f9GwJV7crg5dnWhNLDCTdldZNExDdL16ZfdVFq5w8iDZVmSaAGMyp6b9H47c0LZz7lTXw1A==",
   "success": true,
   "projectFilePath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/LibreriaComponenti.Host.BlazorServer.csproj",
   "expectedPackageFiles": [
@@ -15,9 +15,7 @@
     "/Users/micheleaponte/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.2/microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
     "/Users/micheleaponte/.nuget/packages/microsoft.extensions.options/3.1.2/microsoft.extensions.options.3.1.2.nupkg.sha512",
     "/Users/micheleaponte/.nuget/packages/microsoft.extensions.primitives/3.1.2/microsoft.extensions.primitives.3.1.2.nupkg.sha512",
-    "/Users/micheleaponte/.nuget/packages/microsoft.jsinterop/3.1.2/microsoft.jsinterop.3.1.2.nupkg.sha512",
-    "/Users/micheleaponte/.nuget/packages/system.net.http.json/3.2.0-rc1.20217.1/system.net.http.json.3.2.0-rc1.20217.1.nupkg.sha512",
-    "/Users/micheleaponte/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512"
+    "/Users/micheleaponte/.nuget/packages/microsoft.jsinterop/3.1.2/microsoft.jsinterop.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

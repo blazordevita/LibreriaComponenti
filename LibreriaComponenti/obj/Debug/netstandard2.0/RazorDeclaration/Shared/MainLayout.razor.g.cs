@@ -29,17 +29,17 @@ using Microsoft.JSInterop;
 #line default
 #line hidden
 #line 4 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
-using System.Net.Http;
+using LibreriaComponenti.Shared;
 
 #line default
 #line hidden
 #line 5 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
-using System.Net.Http.Json;
+using LibreriaComponenti.Services;
 
 #line default
 #line hidden
 #line 6 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
-using LibreriaComponenti.Shared;
+using LibreriaComponenti.Models;
 
 #line default
 #line hidden

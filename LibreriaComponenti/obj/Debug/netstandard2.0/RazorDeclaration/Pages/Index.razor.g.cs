@@ -43,6 +43,11 @@ using LibreriaComponenti.Models;
 
 #line default
 #line hidden
+#line 7 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
+using LibreriaComponenti.Components;
+
+#line default
+#line hidden
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {

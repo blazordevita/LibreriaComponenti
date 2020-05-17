@@ -352,6 +352,6 @@
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/compressed/_framework/_bin/LibreriaComponenti.pdb.br
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/JS28MfLR7mHUzI0PM9-LkO-c3ldlbB2Qeu0JJyysbJ4=.hash
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/cPMRfbxLGik4LvdKV_zCa-vsze3yM2AOwt9-kvpIoaY=.hash
-/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/hY9bet7gkEVtk2kWACG-020aLwcLVAE4Ld0BL0bPpLY=.hash
-/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/CoIdzixCGBcXKXBe3O6oRsGHmKhNRaDRnQrWp4Nja6E=.hash
-/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/mrg1GGpyvyX1vvUC0aocBvDFMq_UB0iI-cU0nJ_Anaw=.hash
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/0w1AAnNStKolJneXephN5pmcFtz0liNXcQ5Yk4YuDf8=.hash
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/ldKiUXX2QSUdSROszMg_OGd4whPPrKdCrX0z5xDZcDg=.hash
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/ScDeegz7v2SqykvpK4PbHE4CQjGrq24Ndg_JvWeAG6o=.hash

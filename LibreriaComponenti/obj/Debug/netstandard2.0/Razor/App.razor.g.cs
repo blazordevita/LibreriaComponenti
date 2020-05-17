@@ -39,6 +39,11 @@ using LibreriaComponenti.Models;
 
 #line default
 #line hidden
+#line 7 "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/_Imports.razor"
+using LibreriaComponenti.Components;
+
+#line default
+#line hidden
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

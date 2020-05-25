@@ -5,28 +5,70 @@
 
 <p>This component demonstrates fetching data from the server.</p>
 
-@if (WeatherForecasModel.Rows == null)
+@if (WeatherForecastModel.Rows == null)
 {
     <p><em>Loading...</em></p>
 }
 else
 {
-    <Grid Model="WeatherForecasModel" />
+    @if(newWeatherForecast == null)
+    {
+        <button class="btn btn-primary mb-3" @onclick="CreateWeatherForecast">Create Weather Forecast</button>
+        <Grid Model="WeatherForecastModel" />
+    }
+    else
+    {
+        <Details Item="newWeatherForecast" OnCancel="Cancel" OnSave="Save">
+            <FormFields>
+                <div class="form-group">
+                    <label for="Date">Date:</label>
+                    <InputDate id="Date" @bind-Value="newWeatherForecast.Date" class="form-control" />
+                    <ValidationMessage For="@(() => newWeatherForecast.Date)" />
+                </div>
+
+                <div class="form-group">
+                    <label for="Temperature">Temperature:</label>
+                    <InputNumber id="Temperature" @bind-Value="newWeatherForecast.TemperatureC" class="form-control" />
+                    <ValidationMessage For="@(() => newWeatherForecast.TemperatureC)" />
+                </div>
+
+                <div class="form-group">
+                    <label for="Summary">Summary:</label>
+                    <InputTextArea id="Summary" @bind-Value="newWeatherForecast.Summary" class="form-control" />
+                    <ValidationMessage For="@(() => newWeatherForecast.Summary)" />
+                </div>
+            </FormFields>
+        </Details>
+    }
 }
 
 @code {
-    private GridModel WeatherForecasModel = new GridModel();
+    private GridModel WeatherForecastModel = new GridModel();
+    private WeatherForecast[] weatherForecasts = null;
+    private WeatherForecast newWeatherForecast = null;
+
+    public void CreateWeatherForecast()
+    {
+        newWeatherForecast = new WeatherForecast();
+    }
+
+    public void Cancel()
+    {
+        newWeatherForecast = null;
+    }
+
+    public void Save()
+    {
+        Array.Resize(ref weatherForecasts, weatherForecasts.Length + 1);
+        weatherForecasts[weatherForecasts.Length - 1] = newWeatherForecast;
+        WeatherForecastModel.Rows = weatherForecasts;
+        newWeatherForecast = null;
+    }
 
     protected override async Task OnInitializedAsync()
     {
-        /* WeatherForecasModel.Columns = new GridColumn [] 
-            { 
-                new GridColumn { Caption = "Date", Format = "{0:d}" },
-                new GridColumn { Caption = "Temp. (C)" },
-                new GridColumn { Caption = "Temp. (F)" }, 
-                new GridColumn { Caption = "Summary" }
-            }; */
-        WeatherForecasModel.UseAnnotations = true;
-        WeatherForecasModel.Rows = await WeatherForecastService.GetForecastAsync(DateTime.Now);
+        WeatherForecastModel.UseAnnotations = true;
+        weatherForecasts = await WeatherForecastService.GetForecastAsync(DateTime.Now);
+        WeatherForecastModel.Rows = weatherForecasts;
     }
 }

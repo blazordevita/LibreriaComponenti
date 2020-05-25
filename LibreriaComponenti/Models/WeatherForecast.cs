@@ -13,6 +13,8 @@ namespace LibreriaComponenti.Models
 
         [Display(ShortName = "Temp. (F)")]
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+
+        [Required]
         public string Summary { get; set; }
     }
 }

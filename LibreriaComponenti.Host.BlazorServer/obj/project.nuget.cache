@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Rl95UotBpNO0Kg8f9GwJV7crg5dnWhNLDCTdldZNExDdL16ZfdVFq5w8iDZVmSaAGMyp6b9H47c0LZz7lTXw1A==",
+  "dgSpecHash": "lKM1yTyZV5KjUNvtgCBg+DlFBoUJqDyenNxybXkMym/7b2DQuZRJA9NojHemvomPYRjF9XKrCIN+DOcAac+lWA==",
   "success": true,
   "projectFilePath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorServer/LibreriaComponenti.Host.BlazorServer.csproj",
   "expectedPackageFiles": [

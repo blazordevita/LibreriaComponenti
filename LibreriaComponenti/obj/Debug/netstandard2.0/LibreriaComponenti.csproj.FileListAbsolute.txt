@@ -35,3 +35,5 @@
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Shared/SurveyPrompt.razor.g.cs
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/Components/Grid.razor.g.cs
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Components/Grid.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/RazorDeclaration/Components/Details.razor.g.cs
+/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/Debug/netstandard2.0/Razor/Components/Details.razor.g.cs

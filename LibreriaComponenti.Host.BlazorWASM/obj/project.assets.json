@@ -1142,7 +1142,7 @@
       ]
     },
     "System.Buffers/4.5.0": {
-      "sha512": "xpHYjjtyTEpzMwtSQBWdVc3dPjLdQtvyUg6fBlBqcLl1r2Y7gDG/W/enAYOB98nG3oD3Q153Y2FBO8JDWd+0Xw==",
+      "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
       "type": "package",
       "path": "system.buffers/4.5.0",
       "files": [
@@ -1301,7 +1301,7 @@
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "MNcaYxUJvUcoXOa+jgKl/GDw/Mh+wMrxDjW4dre7qrp35LUGTjUBNtZsNjxsWX592ocdyqt1X5hMJB+5OStoYw==",
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
@@ -1471,35 +1471,38 @@
     ]
   },
   "packageFolders": {
-    "/Users/micheleaponte/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\miche\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/LibreriaComponenti.Host.BlazorWASM.csproj",
+      "projectUniqueName": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti.Host.BlazorWASM\\LibreriaComponenti.Host.BlazorWASM.csproj",
       "projectName": "LibreriaComponenti.Host.BlazorWASM",
-      "projectPath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/LibreriaComponenti.Host.BlazorWASM.csproj",
-      "packagesPath": "/Users/micheleaponte/.nuget/packages/",
-      "outputPath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/",
+      "projectPath": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti.Host.BlazorWASM\\LibreriaComponenti.Host.BlazorWASM.csproj",
+      "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti.Host.BlazorWASM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "/Users/micheleaponte/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\miche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/LibreriaComponenti.csproj": {
-              "projectPath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/LibreriaComponenti.csproj"
+            "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti\\LibreriaComponenti.csproj": {
+              "projectPath": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti\\LibreriaComponenti.csproj"
             }
           }
         }
@@ -1547,7 +1550,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

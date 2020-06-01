@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/LibreriaComponenti.csproj": {}
+    "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti\\LibreriaComponenti.csproj": {}
   },
   "projects": {
-    "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/LibreriaComponenti.csproj": {
+    "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti\\LibreriaComponenti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/LibreriaComponenti.csproj",
+        "projectUniqueName": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti\\LibreriaComponenti.csproj",
         "projectName": "LibreriaComponenti",
-        "projectPath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/LibreriaComponenti.csproj",
-        "packagesPath": "/Users/micheleaponte/.nuget/packages/",
-        "outputPath": "/Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti/obj/",
+        "projectPath": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti\\LibreriaComponenti.csproj",
+        "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "/Users/micheleaponte/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\miche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +67,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

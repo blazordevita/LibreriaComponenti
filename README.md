@@ -10,6 +10,7 @@ Branch del progetto:
 * **dependency-injection**: Uso della dependency injection di .NET Core per il recupero dati
 * **componenti-generici-p1**: Creazione di una griglia generica con la Reflection
 * **componenti-generici-p2**: Creazione di un form generico con RenderFragment e Generics
+* **componenti-generici-p3**: Creazione di un form generico con RenderFragment e Generics usando il context
 
 Articoli di riferimento: 
 
@@ -17,3 +18,4 @@ Articoli di riferimento:
 * [Sfruttare la Dependency Injection di .NET Core](https://blazordev.it/blazor/advanced/2020/05/10/dependency-injection-net-core.html)
 * [Componenti Generici in Blazor - Parte 1](https://blazordev.it/blazor/advanced/2020/05/17/componenti-blazor-generici-p1.html)
 * [Componenti Generici in Blazor - Parte 2](https://blazordev.it/blazor/advanced/2020/05/25/componenti-blazor-generici-p2.html)
+* [Componenti Generici in Blazor - Parte 3](https://blazordev.it/blazor/advanced/2020/06/01/componenti-blazor-generici-p3.html)

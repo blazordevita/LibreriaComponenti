@@ -2,7 +2,7 @@
 <EditForm Model="@Item" OnValidSubmit="@(e => OnSave.InvokeAsync(Item))">
     <DataAnnotationsValidator />
 
-    @FormFields
+    @FormFields(Item)
 
     <button type="submit" class="btn btn-primary">Save</button>
     <button type="button" class="btn btn-warning" @onclick="OnCancel">Cancel</button>
@@ -11,7 +11,7 @@
 
 @code 
 {
-    [Parameter]public RenderFragment FormFields { get; set; }
+    [Parameter]public RenderFragment<TItem> FormFields { get; set; }
     [Parameter]public TItem Item { get; set; }
     [Parameter]public EventCallback OnCancel { get; set; }
     [Parameter]public EventCallback OnSave { get; set; }

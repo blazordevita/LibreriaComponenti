@@ -3077,7 +3077,90 @@
       },
       {
         "Kind": "Components.Component",
+<<<<<<< HEAD
         "Name": "LibreriaComponenti.Shared.MainLayout",
+=======
+        "Name": "LibreriaComponenti.Components.Grid",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Grid",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Model",
+            "TypeName": "LibreriaComponenti.Models.GridModel",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Model"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Components.Grid"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Components.Grid",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Components.Grid",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Model",
+            "TypeName": "LibreriaComponenti.Models.GridModel",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Model"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Components.Grid",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Components.Details<TItem>",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
@@ -3209,14 +3292,22 @@
       },
       {
         "Kind": "Components.Component",
+<<<<<<< HEAD
         "Name": "LibreriaComponenti.Shared.SurveyPrompt",
+=======
+        "Name": "LibreriaComponenti.Components.MyInputDate",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "SurveyPrompt",
+=======
+            "TagName": "MyInputDate",
+>>>>>>> componenti-generici-p4
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -3226,7 +3317,11 @@
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
+<<<<<<< HEAD
             "Name": "Title",
+=======
+            "Name": "Id",
+>>>>>>> componenti-generici-p4
             "TypeName": "System.String",
             "IsEnum": false,
             "IndexerNamePrefix": null,
@@ -3234,7 +3329,68 @@
             "Documentation": null,
             "Diagnostics": [],
             "Metadata": {
+<<<<<<< HEAD
               "Common.PropertyName": "Title"
+=======
+              "Common.PropertyName": "Id"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Label",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Label"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Value",
+            "TypeName": "System.DateTime",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.DateTime>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueChanged",
+              "Components.EventCallback": "True"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueExpression",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<System.DateTime>>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueExpression"
+>>>>>>> componenti-generici-p4
             },
             "BoundAttributeParameters": []
           }
@@ -3243,19 +3399,31 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "LibreriaComponenti.Shared.SurveyPrompt"
+=======
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputDate"
+>>>>>>> componenti-generici-p4
         }
       },
       {
         "Kind": "Components.Component",
+<<<<<<< HEAD
         "Name": "LibreriaComponenti.Shared.SurveyPrompt",
+=======
+        "Name": "LibreriaComponenti.Components.MyInputDate",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "LibreriaComponenti.Shared.SurveyPrompt",
+=======
+            "TagName": "LibreriaComponenti.Components.MyInputDate",
+>>>>>>> componenti-generici-p4
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -3265,7 +3433,11 @@
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
+<<<<<<< HEAD
             "Name": "Title",
+=======
+            "Name": "Id",
+>>>>>>> componenti-generici-p4
             "TypeName": "System.String",
             "IsEnum": false,
             "IndexerNamePrefix": null,
@@ -3273,6 +3445,7 @@
             "Documentation": null,
             "Diagnostics": [],
             "Metadata": {
+<<<<<<< HEAD
               "Common.PropertyName": "Title"
             },
             "BoundAttributeParameters": []
@@ -3307,13 +3480,70 @@
             "Kind": "Components.Component",
             "Name": "Model",
             "TypeName": "LibreriaComponenti.Models.GridModel",
+=======
+              "Common.PropertyName": "Id"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Label",
+            "TypeName": "System.String",
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
             "Documentation": null,
             "Diagnostics": [],
             "Metadata": {
+              "Common.PropertyName": "Label"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Value",
+            "TypeName": "System.DateTime",
+>>>>>>> componenti-generici-p4
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+<<<<<<< HEAD
               "Common.PropertyName": "Model"
+=======
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.DateTime>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueChanged",
+              "Components.EventCallback": "True"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueExpression",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<System.DateTime>>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueExpression"
+>>>>>>> componenti-generici-p4
             },
             "BoundAttributeParameters": []
           }
@@ -3322,19 +3552,32 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "LibreriaComponenti.Components.Grid"
+=======
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputDate",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+>>>>>>> componenti-generici-p4
         }
       },
       {
         "Kind": "Components.Component",
+<<<<<<< HEAD
         "Name": "LibreriaComponenti.Components.Grid",
+=======
+        "Name": "LibreriaComponenti.Components.MyInputNumber",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "LibreriaComponenti.Components.Grid",
+=======
+            "TagName": "MyInputNumber",
+>>>>>>> componenti-generici-p4
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -3344,15 +3587,81 @@
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
+<<<<<<< HEAD
             "Name": "Model",
             "TypeName": "LibreriaComponenti.Models.GridModel",
+=======
+            "Name": "Id",
+            "TypeName": "System.String",
+>>>>>>> componenti-generici-p4
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
             "Documentation": null,
             "Diagnostics": [],
             "Metadata": {
+<<<<<<< HEAD
               "Common.PropertyName": "Model"
+=======
+              "Common.PropertyName": "Id"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Label",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Label"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Value",
+            "TypeName": "System.Int32",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueChanged",
+              "Components.EventCallback": "True"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueExpression",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<System.Int32>>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueExpression"
+>>>>>>> componenti-generici-p4
             },
             "BoundAttributeParameters": []
           }
@@ -3361,20 +3670,32 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "LibreriaComponenti.Components.Grid",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+=======
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputNumber"
+>>>>>>> componenti-generici-p4
         }
       },
       {
         "Kind": "Components.Component",
+<<<<<<< HEAD
         "Name": "LibreriaComponenti.Components.Details<TItem>",
+=======
+        "Name": "LibreriaComponenti.Components.MyInputNumber",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "Details",
+=======
+            "TagName": "LibreriaComponenti.Components.MyInputNumber",
+>>>>>>> componenti-generici-p4
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -3382,6 +3703,7 @@
           }
         ],
         "BoundAttributes": [
+<<<<<<< HEAD
           {
             "Kind": "Components.Component",
             "Name": "TItem",
@@ -3591,26 +3913,114 @@
             "BoundAttributeParameters": []
           }
         ],
+=======
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Label",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Label"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Value",
+            "TypeName": "System.Int32",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueChanged",
+              "Components.EventCallback": "True"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueExpression",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<System.Int32>>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueExpression"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+>>>>>>> componenti-generici-p4
         "AllowedChildTags": [],
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "LibreriaComponenti.Components.Details<TItem>",
           "Components.GenericTyped": "True",
+=======
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputNumber",
+>>>>>>> componenti-generici-p4
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
+<<<<<<< HEAD
         "Kind": "Components.ChildContent",
         "Name": "LibreriaComponenti.Components.Details<TItem>.FormFields",
+=======
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Components.MyInputText",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "FormFields",
             "ParentTag": "Details",
+=======
+            "TagName": "MyInputText",
+            "ParentTag": null,
+>>>>>>> componenti-generici-p4
             "TagStructure": 0,
             "Attributes": [],
             "Diagnostics": []
@@ -3618,17 +4028,86 @@
         ],
         "BoundAttributes": [
           {
+<<<<<<< HEAD
             "Kind": "Components.ChildContent",
             "Name": "Context",
+=======
+            "Kind": "Components.Component",
+            "Name": "Id",
+>>>>>>> componenti-generici-p4
             "TypeName": "System.String",
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
+<<<<<<< HEAD
             "Documentation": "Specifies the parameter name for the 'FormFields' child content expression.",
             "Diagnostics": [],
             "Metadata": {
               "Components.ChildContentParameterName": "True",
               "Common.PropertyName": "Context"
+=======
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Label",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Label"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Value",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueChanged",
+              "Components.EventCallback": "True"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueExpression",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<System.String>>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueExpression"
+>>>>>>> componenti-generici-p4
             },
             "BoundAttributeParameters": []
           }
@@ -3636,6 +4115,7 @@
         "AllowedChildTags": [],
         "Diagnostics": [],
         "Metadata": {
+<<<<<<< HEAD
           "Runtime.Name": "Components.None",
           "Common.TypeName": "LibreriaComponenti.Components.Details<TItem>.FormFields",
           "Components.IsSpecialKind": "Components.ChildContent"
@@ -3644,14 +4124,28 @@
       {
         "Kind": "Components.ChildContent",
         "Name": "LibreriaComponenti.Components.Details<TItem>.FormFields",
+=======
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputText"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Components.MyInputText",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "FormFields",
             "ParentTag": "LibreriaComponenti.Components.Details",
+=======
+            "TagName": "LibreriaComponenti.Components.MyInputText",
+            "ParentTag": null,
+>>>>>>> componenti-generici-p4
             "TagStructure": 0,
             "Attributes": [],
             "Diagnostics": []
@@ -3659,12 +4153,18 @@
         ],
         "BoundAttributes": [
           {
+<<<<<<< HEAD
             "Kind": "Components.ChildContent",
             "Name": "Context",
+=======
+            "Kind": "Components.Component",
+            "Name": "Id",
+>>>>>>> componenti-generici-p4
             "TypeName": "System.String",
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
+<<<<<<< HEAD
             "Documentation": "Specifies the parameter name for the 'FormFields' child content expression.",
             "Diagnostics": [],
             "Metadata": {
@@ -3697,26 +4197,321 @@
             "TagStructure": 0,
             "Attributes": [],
             "Diagnostics": []
+=======
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Label",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Label"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Value",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueChanged",
+              "Components.EventCallback": "True"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueExpression",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<System.String>>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueExpression"
+            },
+            "BoundAttributeParameters": []
+>>>>>>> componenti-generici-p4
           }
         ],
-        "BoundAttributes": [],
         "AllowedChildTags": [],
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "LibreriaComponenti.Pages.Counter"
+=======
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputText",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+>>>>>>> componenti-generici-p4
         }
       },
       {
         "Kind": "Components.Component",
+<<<<<<< HEAD
         "Name": "LibreriaComponenti.Pages.Counter",
+=======
+        "Name": "LibreriaComponenti.Components.MyInputTextArea",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "LibreriaComponenti.Pages.Counter",
+=======
+            "TagName": "MyInputTextArea",
+>>>>>>> componenti-generici-p4
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Label",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Label"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Value",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueChanged",
+              "Components.EventCallback": "True"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueExpression",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<System.String>>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueExpression"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
+          "Common.TypeName": "LibreriaComponenti.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+=======
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputTextArea"
+>>>>>>> componenti-generici-p4
+        }
+      },
+      {
+        "Kind": "Components.Component",
+<<<<<<< HEAD
+        "Name": "LibreriaComponenti.Pages.Index",
+=======
+        "Name": "LibreriaComponenti.Components.MyInputTextArea",
+>>>>>>> componenti-generici-p4
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+<<<<<<< HEAD
+            "TagName": "Index",
+=======
+            "TagName": "LibreriaComponenti.Components.MyInputTextArea",
+>>>>>>> componenti-generici-p4
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Label",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Label"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Value",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueChanged",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueChanged",
+              "Components.EventCallback": "True"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ValueExpression",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<System.String>>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "ValueExpression"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
+          "Common.TypeName": "LibreriaComponenti.Pages.Index"
+=======
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputTextArea",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+>>>>>>> componenti-generici-p4
+        }
+      },
+      {
+        "Kind": "Components.Component",
+<<<<<<< HEAD
+        "Name": "LibreriaComponenti.Pages.Index",
+=======
+        "Name": "LibreriaComponenti.Pages.Counter",
+>>>>>>> componenti-generici-p4
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+<<<<<<< HEAD
+            "TagName": "LibreriaComponenti.Pages.Index",
+=======
+            "TagName": "Counter",
+>>>>>>> componenti-generici-p4
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -3728,19 +4523,67 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LibreriaComponenti.Pages.Counter",
+<<<<<<< HEAD
+          "Common.TypeName": "LibreriaComponenti.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+=======
+          "Common.TypeName": "LibreriaComponenti.Pages.Counter"
+>>>>>>> componenti-generici-p4
         }
       },
       {
         "Kind": "Components.Component",
-        "Name": "LibreriaComponenti.Pages.Index",
+<<<<<<< HEAD
+        "Name": "LibreriaComponenti.Component1",
+=======
+        "Name": "LibreriaComponenti.Pages.Counter",
+>>>>>>> componenti-generici-p4
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
+            "TagName": "Component1",
+=======
+            "TagName": "LibreriaComponenti.Pages.Counter",
+>>>>>>> componenti-generici-p4
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
+          "Common.TypeName": "LibreriaComponenti.Component1"
+=======
+          "Common.TypeName": "LibreriaComponenti.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+>>>>>>> componenti-generici-p4
+        }
+      },
+      {
+        "Kind": "Components.Component",
+<<<<<<< HEAD
+        "Name": "LibreriaComponenti.Component1",
+=======
+        "Name": "LibreriaComponenti.Pages.Index",
+>>>>>>> componenti-generici-p4
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+<<<<<<< HEAD
+            "TagName": "LibreriaComponenti.Component1",
+=======
             "TagName": "Index",
             "ParentTag": null,
             "TagStructure": 0,
@@ -3783,14 +4626,14 @@
       },
       {
         "Kind": "Components.Component",
-        "Name": "LibreriaComponenti.Component1",
+        "Name": "LibreriaComponenti.Pages.FetchData",
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Component1",
+            "TagName": "FetchData",
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -3802,19 +4645,19 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "LibreriaComponenti.Component1"
+          "Common.TypeName": "LibreriaComponenti.Pages.FetchData"
         }
       },
       {
         "Kind": "Components.Component",
-        "Name": "LibreriaComponenti.Component1",
+        "Name": "LibreriaComponenti.Pages.FetchData",
         "AssemblyName": "LibreriaComponenti",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LibreriaComponenti.Component1",
+            "TagName": "LibreriaComponenti.Pages.FetchData",
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -3826,7 +4669,276 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Shared.MainLayout",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout",
+>>>>>>> componenti-generici-p4
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+<<<<<<< HEAD
+        "BoundAttributes": [],
+=======
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Shared.MainLayout"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Shared.MainLayout",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Shared.MainLayout",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+>>>>>>> componenti-generici-p4
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "LibreriaComponenti.Component1",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+=======
+          "Common.TypeName": "LibreriaComponenti.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.ChildContent",
+        "Name": "LibreriaComponenti.Shared.MainLayout.Body",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout",
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "LibreriaComponenti.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "Kind": "Components.ChildContent",
+        "Name": "LibreriaComponenti.Shared.MainLayout.Body",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "LibreriaComponenti.Shared.MainLayout",
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "LibreriaComponenti.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Shared.NavMenu",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Shared.NavMenu"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Shared.NavMenu",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Shared.NavMenu",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Shared.SurveyPrompt",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "Kind": "Components.Component",
+        "Name": "LibreriaComponenti.Shared.SurveyPrompt",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": null,
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Shared.SurveyPrompt",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "LibreriaComponenti.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4170,6 +5282,7 @@
           "Components.EventHandler.EventArgs": "Microsoft.AspNetCore.Components.Web.FocusEventArgs",
           "Common.ClassifyAttributesOnly": "True",
           "Common.TypeName": "Microsoft.AspNetCore.Components.Web.EventHandlers"
+>>>>>>> componenti-generici-p4
         }
       },
       {
@@ -16796,6 +17909,450 @@
           "Components.Bind.ChangeAttribute": "ValueChanged",
           "Components.Bind.ExpressionAttribute": "ValueExpression",
           "Common.TypeName": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Bind",
+        "Name": "LibreriaComponenti.Components.MyInputDate",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyInputDate",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [
+              {
+                "Name": "@bind-Value",
+                "NameComparison": 0,
+                "Value": null,
+                "ValueComparison": 0,
+                "Diagnostics": [],
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Value",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.DateTime>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Value",
+          "Components.Bind.ChangeAttribute": "ValueChanged",
+          "Components.Bind.ExpressionAttribute": "ValueExpression",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputDate"
+        }
+      },
+      {
+        "Kind": "Components.Bind",
+        "Name": "LibreriaComponenti.Components.MyInputDate",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Components.MyInputDate",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [
+              {
+                "Name": "@bind-Value",
+                "NameComparison": 0,
+                "Value": null,
+                "ValueComparison": 0,
+                "Diagnostics": [],
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Value",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.DateTime>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Value",
+          "Components.Bind.ChangeAttribute": "ValueChanged",
+          "Components.Bind.ExpressionAttribute": "ValueExpression",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputDate",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Bind",
+        "Name": "LibreriaComponenti.Components.MyInputNumber",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyInputNumber",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [
+              {
+                "Name": "@bind-Value",
+                "NameComparison": 0,
+                "Value": null,
+                "ValueComparison": 0,
+                "Diagnostics": [],
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Value",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Value",
+          "Components.Bind.ChangeAttribute": "ValueChanged",
+          "Components.Bind.ExpressionAttribute": "ValueExpression",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputNumber"
+        }
+      },
+      {
+        "Kind": "Components.Bind",
+        "Name": "LibreriaComponenti.Components.MyInputNumber",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Components.MyInputNumber",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [
+              {
+                "Name": "@bind-Value",
+                "NameComparison": 0,
+                "Value": null,
+                "ValueComparison": 0,
+                "Diagnostics": [],
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Value",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.Int32>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Value",
+          "Components.Bind.ChangeAttribute": "ValueChanged",
+          "Components.Bind.ExpressionAttribute": "ValueExpression",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputNumber",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Bind",
+        "Name": "LibreriaComponenti.Components.MyInputText",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyInputText",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [
+              {
+                "Name": "@bind-Value",
+                "NameComparison": 0,
+                "Value": null,
+                "ValueComparison": 0,
+                "Diagnostics": [],
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Value",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Value",
+          "Components.Bind.ChangeAttribute": "ValueChanged",
+          "Components.Bind.ExpressionAttribute": "ValueExpression",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputText"
+        }
+      },
+      {
+        "Kind": "Components.Bind",
+        "Name": "LibreriaComponenti.Components.MyInputText",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Components.MyInputText",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [
+              {
+                "Name": "@bind-Value",
+                "NameComparison": 0,
+                "Value": null,
+                "ValueComparison": 0,
+                "Diagnostics": [],
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Value",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Value",
+          "Components.Bind.ChangeAttribute": "ValueChanged",
+          "Components.Bind.ExpressionAttribute": "ValueExpression",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputText",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "Kind": "Components.Bind",
+        "Name": "LibreriaComponenti.Components.MyInputTextArea",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyInputTextArea",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [
+              {
+                "Name": "@bind-Value",
+                "NameComparison": 0,
+                "Value": null,
+                "ValueComparison": 0,
+                "Diagnostics": [],
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Value",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Value",
+          "Components.Bind.ChangeAttribute": "ValueChanged",
+          "Components.Bind.ExpressionAttribute": "ValueExpression",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputTextArea"
+        }
+      },
+      {
+        "Kind": "Components.Bind",
+        "Name": "LibreriaComponenti.Components.MyInputTextArea",
+        "AssemblyName": "LibreriaComponenti",
+        "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+        "TagOutputHint": null,
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LibreriaComponenti.Components.MyInputTextArea",
+            "ParentTag": null,
+            "TagStructure": 0,
+            "Attributes": [
+              {
+                "Name": "@bind-Value",
+                "NameComparison": 0,
+                "Value": null,
+                "ValueComparison": 0,
+                "Diagnostics": [],
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ],
+            "Diagnostics": []
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Bind",
+            "Name": "@bind-Value",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.String>",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": "Binds the provided expression to the 'Value' property and a change event delegate to the 'ValueChanged' property of the component.",
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "Value"
+            },
+            "BoundAttributeParameters": []
+          }
+        ],
+        "AllowedChildTags": [],
+        "Diagnostics": [],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Components.IsSpecialKind": "Components.Bind",
+          "Components.Bind.ValueAttribute": "Value",
+          "Components.Bind.ChangeAttribute": "ValueChanged",
+          "Components.Bind.ExpressionAttribute": "ValueExpression",
+          "Common.TypeName": "LibreriaComponenti.Components.MyInputTextArea",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

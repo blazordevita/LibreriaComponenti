@@ -38,7 +38,7 @@
       "Microsoft.Bcl.AsyncInterfaces.dll": "sha256-OBWh2or+2mU6elwqPfmL72FBZVKl2WzTJ4L\/IrKeXM4=",
       "System.Numerics.Vectors.dll": "sha256-GpbKjKcZS2DFFmkFiWZ0C5pPRActMWogSgSZcQHg1SA=",
       "System.Text.Encodings.Web.dll": "sha256-hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=",
-      "LibreriaComponenti.dll": "sha256-BkUGuhnSsPTabOCdfM\/U7xdzgYXJiRduzExGrJsNGa8=",
+      "LibreriaComponenti.dll": "sha256-+yV1TloB98e+wNs6zdiG5fLSdR8Yfd7MDdV5lkrG5I8=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-v4LhihP26fP\/dVajppSCZIrCVbkiALCJgAisyG2cmJQ=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=",
       "System.ComponentModel.Annotations.dll": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
@@ -62,7 +62,7 @@
     },
     "pdb": {
       "LibreriaComponenti.Host.BlazorWASM.pdb": "sha256-Nt7MFpmPKHUZVp94i+PTMF1tePV8ZCSVijk1KfAFt6o=",
-      "LibreriaComponenti.pdb": "sha256-9jQZbcm4XBwMvD99nEFlje0lBAHQ63epIL\/X1VXcw1w="
+      "LibreriaComponenti.pdb": "sha256-KWpVDSEPtsBR2Pd5kkB\/MJ4APze0\/gNAmzU2svzdIJs="
     },
     "runtime": {
       "dotnet.3.2.0-rc1.20222.2.js": "sha256-iZCHkFXJWYNxCUFwhj+4oqR4fkEJc5YGjfTTvdIuX84=",

@@ -355,6 +355,9 @@
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/a-I95bv0x-NEmZW8IJtipY-sI4Aq6PsCmXR_0NFa-6Y=.hash
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/iAnuCIwCZxX3CbZcQMAc6OfGJdM7SKpdd0o1i2Z9lU4=.hash
 /Users/micheleaponte/blazordevita/articoli/LibreriaComponenti/LibreriaComponenti.Host.BlazorWASM/obj/Debug/netstandard2.1/integrity/nJt8qgAVPzzXN8Fiiv0wwE37tu9bVluY094pyG50wHc=.hash
+<<<<<<< HEAD
+=======
+>>>>>>> componenti-generici-p4
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\bin\Debug\netstandard2.1\Properties\launchSettings.json
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\bin\Debug\netstandard2.1\LibreriaComponenti.Host.BlazorWASM.StaticWebAssets.xml
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\bin\Debug\netstandard2.1\LibreriaComponenti.Host.BlazorWASM.dll
@@ -559,6 +562,7 @@ C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\GpbKjKcZS2DFFmkFiWZ0C5pPRActMWogSgSZcQHg1SA=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\_yV1TloB98e_wNs6zdiG5fLSdR8Yfd7MDdV5lkrG5I8=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\v4LhihP26fP-dVajppSCZIrCVbkiALCJgAisyG2cmJQ=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
@@ -580,11 +584,13 @@ C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\oAIlpv09S-0jXnze744E1V88Oaw8Ql1x3Alw0hsVYdw=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\u5WlE_3_OPkr0mlHMJ6pS5OWVuHC3rk2HWyyA3R_xVY=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\Nt7MFpmPKHUZVp94i_PTMF1tePV8ZCSVijk1KfAFt6o=.hash
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\KWpVDSEPtsBR2Pd5kkB-MJ4APze0-gNAmzU2svzdIJs=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\iZCHkFXJWYNxCUFwhj_4oqR4fkEJc5YGjfTTvdIuX84=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\aFsebAaVKCmJl2K5EZooCF0zL34DsPr_kGZLo6WC_2c=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\SWtTaJ9XhCu62X17HfpwA9cLqrTGBo3YshChG82f6Xg=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\s0sscS1x2i_QKWdruEDji2H1mvoCk5eAjiy7MaaeqmA=.hash
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\compressed\_framework\_bin\LibreriaComponenti.Host.BlazorWASM.dll.gz
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
@@ -709,6 +715,3 @@ C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\staticwebassets\LibreriaComponenti.Host.BlazorWASM.StaticWebAssets.xml
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\LibreriaComponenti.Host.BlazorWASM.dll
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\LibreriaComponenti.Host.BlazorWASM.pdb
-C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\BkUGuhnSsPTabOCdfM-U7xdzgYXJiRduzExGrJsNGa8=.hash
-C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\9jQZbcm4XBwMvD99nEFlje0lBAHQ63epIL-X1VXcw1w=.hash
-C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti.Host.BlazorWASM\obj\Debug\netstandard2.1\integrity\yuyMdTV28d6_NTxeACXvhv5rdKhokMqv7HfWQGK03CY=.hash

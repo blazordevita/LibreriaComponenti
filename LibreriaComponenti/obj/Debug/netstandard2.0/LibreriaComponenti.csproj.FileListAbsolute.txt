@@ -76,5 +76,11 @@ C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\D
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\staticwebassets\LibreriaComponenti.StaticWebAssets.xml
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\LibreriaComponenti.dll
 C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\LibreriaComponenti.pdb
-C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\RazorDeclaration\Components\Input.razor.g.cs
-C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\Razor\Components\Input.razor.g.cs
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\RazorDeclaration\Components\MyInputText.razor.g.cs
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\Razor\Components\MyInputText.razor.g.cs
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\RazorDeclaration\Components\MyInputDate.razor.g.cs
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\RazorDeclaration\Components\MyInputTextArea.razor.g.cs
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\Razor\Components\MyInputDate.razor.g.cs
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\Razor\Components\MyInputTextArea.razor.g.cs
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\RazorDeclaration\Components\MyInputNumber.razor.g.cs
+C:\Users\miche\BlazorDevIta\articoli\LibreriaComponenti\LibreriaComponenti\obj\Debug\netstandard2.0\Razor\Components\MyInputNumber.razor.g.cs

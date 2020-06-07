@@ -161,7 +161,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rGtNQT0_LU0iRVGiPFurlu_sGXUaPyLT_NVAqb2kI5w=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\_yV1TloB98e_wNs6zdiG5fLSdR8Yfd7MDdV5lkrG5I8=.hash",
       "Source": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti.Host.BlazorWASM\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\LibreriaComponenti.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/LibreriaComponenti.dll.br"
     },
@@ -271,7 +271,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/LibreriaComponenti.Host.BlazorWASM.pdb.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\3jlpMBIfJlf-LSrRP1JaCdwU-fTf5oEjOl4EI4niC3Q=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KWpVDSEPtsBR2Pd5kkB-MJ4APze0-gNAmzU2svzdIJs=.hash",
       "Source": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti.Host.BlazorWASM\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\LibreriaComponenti.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/LibreriaComponenti.pdb.br"
     },
@@ -296,7 +296,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\dWyFvl8PWUVOZS8tAsngIPLS1JwwLAUnomKGVVxXxVY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\s0sscS1x2i_QKWdruEDji2H1mvoCk5eAjiy7MaaeqmA=.hash",
       "Source": "C:\\Users\\miche\\BlazorDevIta\\articoli\\LibreriaComponenti\\LibreriaComponenti.Host.BlazorWASM\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

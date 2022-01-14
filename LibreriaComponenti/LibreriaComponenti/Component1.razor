@@ -1,0 +1,16 @@
+﻿@inject IJSRuntime JSRuntime
+
+<div class="my-component">
+    This component is defined in the <strong>LibreriaComponenti</strong> library.
+    <button @onclick="ShowPrompt">
+        Chiama funzione JavaScript
+     </button>
+</div>
+
+@code {
+    public async Task ShowPrompt()
+    {
+        var interop = new ExampleJsInterop(JSRuntime);
+        await interop.Prompt("Come ti chiami?");
+    }
+}

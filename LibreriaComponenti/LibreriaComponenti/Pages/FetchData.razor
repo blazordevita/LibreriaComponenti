@@ -22,25 +22,11 @@ else
     }
     else
     {
-        <Details TItem="WeatherForecast"  Item="newWeatherForecast" OnCancel="Cancel" OnSave="Save">
+        <Details TItem="WeatherForecast" Item="newWeatherForecast" OnCancel="Cancel" OnSave="Save">
             <FormFields Context="weather">
-            <div class="form-group">
-                <label for="Date">Date:</label>
-                <InputDate id="Date" @bind-Value="weather.Date" class="form-control" />
-                <ValidationMessage For="@(() => weather.Date)" />
-            </div>
-
-            <div class="form-group">
-                <label for="Temperature">Temperature:</label>
-                <InputNumber id="Temperature" @bind-Value="weather.TemperatureC" class="form-control" />
-                <ValidationMessage For="@(() => weather.TemperatureC)" />
-            </div>
-
-            <div class="form-group">
-                <label for="Summary">Summary:</label>
-                <InputTextArea id="Summary" @bind-Value="weather.Summary" class="form-control" />
-                <ValidationMessage For="@(() => weather.Summary)" />
-            </div>
+                <MyInputDate Id="Date" Label="Date:" @bind-Value="weather.Date" />
+                <MyInputNumber Id="Temperature" Label="Temperature:" @bind-Value="weather.TemperatureC" />
+                <MyInputTextArea Id="Summary" Label="Summary:" @bind-Value="weather.Summary" />
             </FormFields>
         </Details>
     }
